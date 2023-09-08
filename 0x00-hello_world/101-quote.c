@@ -3,7 +3,8 @@
 /**
  * main - a programe that print a line to the standard error
  *
- * Return: 1
+ * Return: always (1)
+ *
  */
 int main(void)
 {
