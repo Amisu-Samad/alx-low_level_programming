@@ -4,6 +4,7 @@
  * main - create_array
  * @size: size of array
  * @c: character to store in array
+ * Description: create array of size size and assign char c
  * Return: pointer to the array
  */
 
