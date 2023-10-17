@@ -3,7 +3,7 @@
 /**
  * main - prints the name of the file
  * ain - a program that prints compiled file name
- * Return: Always 0 
+ * Return: Always 0
  */
 int main(void)
 {
